@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá! Bem-vindo ao meu GitHub
 
-<!--
-**hugo191023/hugo191023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou desenvolvendo minhas habilidades na área de tecnologia.
 
-Here are some ideas to get you started:
+Atualmente estou criando projetos para praticar desenvolvimento web, programação e banco de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e conhecimentos
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Python
+- React
+- Next.js
+- SQL
+- Git e GitHub
+
+## 🚀 Projetos
+
+### 👥 Sistema de Clientes
+
+Sistema desenvolvido com HTML, CSS e JavaScript.
+
+Principais funcionalidades:
+
+- Cadastro de clientes
+- Edição e exclusão
+- Pesquisa de clientes
+- Validação de e-mail
+- Validação de telefone
+- Armazenamento com LocalStorage
+- Contador de clientes
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- JavaScript
+- Python
+- React
+- Banco de Dados
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade na área de **Tecnologia da Informação**, onde possa aplicar meus conhecimentos, adquirir experiência e continuar evoluindo como profissional.
